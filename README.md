@@ -8,7 +8,6 @@
  API Key is no longer neeeded, I set up a key specific to this program.
  
  3. Now you can run main.exe! You will be prompted for a username and start date.  Be sure to follow the formatting (YYYY.MM.DD as numbers) and no typos on your username otherwise the file will most likely crash.  If you do this correctly, the window will show you your progress of downloading the weeks you requested (for several year timeframes, there will be a lot of weeks). NEW!! You can now create your own "settings.txt" file in the same folder as this exe with your username as the first line and the date (in proper format!!!) as the second line.  For example, my settings file currently looks like this:
- 
  IAmThBlackMetal
  2020.01.01
  
